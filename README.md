@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Alex Volkov and I am a full stack developer 👋
+
+## My Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **vol4ikman/vol4ikman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
